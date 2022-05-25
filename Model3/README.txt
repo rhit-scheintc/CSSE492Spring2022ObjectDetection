@@ -1,0 +1,1 @@
+This model was trained with the clsLoss variable being constantly set to 0
